@@ -1,0 +1,2 @@
+# pulcini
+Projekts kursu ietvaros
